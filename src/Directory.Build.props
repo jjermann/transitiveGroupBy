@@ -1,0 +1,24 @@
+<Project>
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <WarningsAsErrors>nullable</WarningsAsErrors>
+    <TreatWarningsAsError>all</TreatWarningsAsError>
+  </PropertyGroup>
+  
+  <PropertyGroup>
+    <Authors>Jonas Jermann</Authors>
+    <Product>TransitiveGroupBy</Product>
+    <AssemblyVersion>0.1.0</AssemblyVersion>
+    <Version>0.1.0</Version>
+    <FileVersion>0.1.0</FileVersion>
+    <Description>Enumerable extension method for TransitiveGroupBy</Description>
+    <Copyright>Jonas Jermann</Copyright>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/jjermann/transitiveGroupBy</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/jjermann/transitiveGroupBy.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+</Project>
